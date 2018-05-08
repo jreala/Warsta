@@ -1,0 +1,8 @@
+D:\Code\Warsta\bin\Debug\netstandard2.0\warsta.deps.json
+D:\Code\Warsta\bin\Debug\netstandard2.0\warsta.dll
+D:\Code\Warsta\bin\Debug\netstandard2.0\warsta.pdb
+D:\Code\Warsta\obj\Debug\netstandard2.0\warsta.csproj.CoreCompileInputs.cache
+D:\Code\Warsta\obj\Debug\netstandard2.0\warsta.AssemblyInfoInputs.cache
+D:\Code\Warsta\obj\Debug\netstandard2.0\warsta.AssemblyInfo.cs
+D:\Code\Warsta\obj\Debug\netstandard2.0\warsta.dll
+D:\Code\Warsta\obj\Debug\netstandard2.0\warsta.pdb
