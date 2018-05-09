@@ -1,0 +1,924 @@
+
+
+statistics.fallout		
+
+statistics.fallout.avatar_damage_dealt	numeric	
+
+statistics.fallout.avatar_frags	numeric	
+
+statistics.fallout.avg_damage_assisted	float	
+
+statistics.fallout.avg_damage_assisted_radio	float	
+
+statistics.fallout.avg_damage_assisted_track	float	
+
+statistics.fallout.avg_damage_blocked	float	
+
+statistics.fallout.battle_avg_xp	numeric	
+
+statistics.fallout.battles	numeric	
+
+statistics.fallout.battles_on_stunning_vehicles	numeric	
+
+statistics.fallout.capture_points	numeric	
+
+statistics.fallout.damage_dealt	numeric	
+
+statistics.fallout.damage_received	numeric	
+
+statistics.fallout.death_count	numeric	
+
+statistics.fallout.direct_hits_received	numeric	
+
+statistics.fallout.draws	numeric	
+
+statistics.fallout.dropped_capture_points	numeric	
+
+statistics.fallout.explosion_hits	numeric	
+
+statistics.fallout.explosion_hits_received	numeric	
+
+statistics.fallout.flag_capture	numeric	
+
+statistics.fallout.flag_capture_solo	numeric	
+
+statistics.fallout.frags	numeric	
+
+statistics.fallout.hits	numeric	
+
+statistics.fallout.hits_percents	numeric	
+
+statistics.fallout.losses	numeric	
+
+statistics.fallout.max_damage	numeric	
+
+statistics.fallout.max_damage_tank_id	numeric	
+
+statistics.fallout.max_damage_with_avatar	numeric	
+
+statistics.fallout.max_frags	numeric	
+
+statistics.fallout.max_frags_tank_id	numeric	
+
+statistics.fallout.max_frags_with_avatar	numeric	
+
+statistics.fallout.max_win_points	numeric	
+
+statistics.fallout.max_xp	numeric	
+
+statistics.fallout.max_xp_tank_id	numeric	
+
+statistics.fallout.no_damage_direct_hits_received	numeric	
+
+statistics.fallout.piercings	numeric	
+
+statistics.fallout.piercings_received	numeric	
+
+statistics.fallout.resource_absorbed	numeric	
+
+statistics.fallout.shots	numeric	
+
+statistics.fallout.spotted	numeric	
+
+statistics.fallout.stun_assisted_damage	numeric	
+
+statistics.fallout.stun_number	numeric	
+
+statistics.fallout.survived_battles	numeric	
+
+statistics.fallout.tanking_factor	float	
+
+statistics.fallout.win_points	numeric	
+
+statistics.fallout.wins	numeric	
+
+statistics.fallout.xp	numeric	
+
+
+statistics.globalmap_absolute		
+
+
+statistics.globalmap_absolute.avg_damage_assisted	float	
+
+statistics.globalmap_absolute.avg_damage_assisted_radio	float	
+
+statistics.globalmap_absolute.avg_damage_assisted_track	float	
+
+statistics.globalmap_absolute.avg_damage_blocked	float	
+
+statistics.globalmap_absolute.battle_avg_xp	numeric	
+
+statistics.globalmap_absolute.battles	numeric	
+
+statistics.globalmap_absolute.battles_on_stunning_vehicles	numeric	
+
+statistics.globalmap_absolute.capture_points	numeric	
+
+statistics.globalmap_absolute.damage_dealt	numeric	
+
+statistics.globalmap_absolute.damage_received	numeric	
+
+statistics.globalmap_absolute.direct_hits_received	numeric	
+
+statistics.globalmap_absolute.draws	numeric	
+
+statistics.globalmap_absolute.dropped_capture_points	numeric	
+
+statistics.globalmap_absolute.explosion_hits	numeric	
+
+statistics.globalmap_absolute.explosion_hits_received	numeric	
+
+statistics.globalmap_absolute.frags	numeric	
+
+statistics.globalmap_absolute.hits	numeric	
+
+statistics.globalmap_absolute.hits_percents	numeric	
+
+statistics.globalmap_absolute.losses	numeric	
+
+statistics.globalmap_absolute.no_damage_direct_hits_received	numeric	
+
+statistics.globalmap_absolute.piercings	numeric	
+
+statistics.globalmap_absolute.piercings_received	numeric	
+
+statistics.globalmap_absolute.shots	numeric	
+
+statistics.globalmap_absolute.spotted	numeric	
+
+statistics.globalmap_absolute.stun_assisted_damage	numeric	
+
+statistics.globalmap_absolute.stun_number	numeric	
+
+statistics.globalmap_absolute.survived_battles	numeric	
+
+statistics.globalmap_absolute.tanking_factor	float	
+
+statistics.globalmap_absolute.wins	numeric	
+
+statistics.globalmap_absolute.xp	numeric	
+
+statistics.globalmap_champion		
+
+
+statistics.globalmap_champion.avg_damage_assisted	float	
+
+statistics.globalmap_champion.avg_damage_assisted_radio	float	
+
+statistics.globalmap_champion.avg_damage_assisted_track	float	
+
+statistics.globalmap_champion.avg_damage_blocked	float	
+
+statistics.globalmap_champion.battle_avg_xp	numeric	
+
+statistics.globalmap_champion.battles	numeric	
+
+statistics.globalmap_champion.battles_on_stunning_vehicles	numeric	
+
+statistics.globalmap_champion.capture_points	numeric	
+
+statistics.globalmap_champion.damage_dealt	numeric	
+
+statistics.globalmap_champion.damage_received	numeric	
+
+statistics.globalmap_champion.direct_hits_received	numeric	
+
+statistics.globalmap_champion.draws	numeric	
+
+statistics.globalmap_champion.dropped_capture_points	numeric	
+
+statistics.globalmap_champion.explosion_hits	numeric	
+
+statistics.globalmap_champion.explosion_hits_received	numeric	
+
+statistics.globalmap_champion.frags	numeric	
+
+statistics.globalmap_champion.hits	numeric	
+
+statistics.globalmap_champion.hits_percents	numeric	
+
+statistics.globalmap_champion.losses	numeric	
+
+statistics.globalmap_champion.no_damage_direct_hits_received	numeric	
+
+statistics.globalmap_champion.piercings	numeric	
+
+statistics.globalmap_champion.piercings_received	numeric	
+
+statistics.globalmap_champion.shots	numeric	
+
+statistics.globalmap_champion.spotted	numeric	
+
+statistics.globalmap_champion.stun_assisted_damage	numeric	
+
+statistics.globalmap_champion.stun_number	numeric	
+
+statistics.globalmap_champion.survived_battles	numeric	
+
+statistics.globalmap_champion.tanking_factor	float	
+
+statistics.globalmap_champion.wins	numeric	
+
+statistics.globalmap_champion.xp	numeric	
+
+statistics.globalmap_middle		
+
+
+statistics.globalmap_middle.avg_damage_assisted	float	
+
+statistics.globalmap_middle.avg_damage_assisted_radio	float	
+
+statistics.globalmap_middle.avg_damage_assisted_track	float	
+
+statistics.globalmap_middle.avg_damage_blocked	float	
+
+statistics.globalmap_middle.battle_avg_xp	numeric	
+
+statistics.globalmap_middle.battles	numeric	
+
+statistics.globalmap_middle.battles_on_stunning_vehicles	numeric	
+
+statistics.globalmap_middle.capture_points	numeric	
+
+statistics.globalmap_middle.damage_dealt	numeric	
+
+statistics.globalmap_middle.damage_received	numeric	
+
+statistics.globalmap_middle.direct_hits_received	numeric	
+
+statistics.globalmap_middle.draws	numeric	
+
+statistics.globalmap_middle.dropped_capture_points	numeric	
+
+statistics.globalmap_middle.explosion_hits	numeric	
+
+statistics.globalmap_middle.explosion_hits_received	numeric	
+
+statistics.globalmap_middle.frags	numeric	
+
+statistics.globalmap_middle.hits	numeric	
+
+statistics.globalmap_middle.hits_percents	numeric	
+
+statistics.globalmap_middle.losses	numeric	
+
+statistics.globalmap_middle.no_damage_direct_hits_received	numeric	
+
+statistics.globalmap_middle.piercings	numeric	
+
+statistics.globalmap_middle.piercings_received	numeric	
+
+statistics.globalmap_middle.shots	numeric	
+
+statistics.globalmap_middle.spotted	numeric	
+
+statistics.globalmap_middle.stun_assisted_damage	numeric	
+
+statistics.globalmap_middle.stun_number	numeric	
+
+statistics.globalmap_middle.survived_battles	numeric	
+
+statistics.globalmap_middle.tanking_factor	float	
+
+statistics.globalmap_middle.wins	numeric	
+
+statistics.globalmap_middle.xp	numeric	
+
+statistics.historical		
+
+statistics.historical.avg_damage_assisted	float	
+
+statistics.historical.avg_damage_assisted_radio	float	
+
+statistics.historical.avg_damage_assisted_track	float	
+
+statistics.historical.avg_damage_blocked	float	
+
+statistics.historical.battle_avg_xp	numeric	
+
+statistics.historical.battles	numeric	
+
+statistics.historical.battles_on_stunning_vehicles	numeric	
+
+statistics.historical.capture_points	numeric	
+
+statistics.historical.damage_dealt	numeric	
+
+statistics.historical.damage_received	numeric	
+
+statistics.historical.direct_hits_received	numeric	
+
+statistics.historical.draws	numeric	
+
+statistics.historical.dropped_capture_points	numeric	
+
+statistics.historical.explosion_hits	numeric	
+
+statistics.historical.explosion_hits_received	numeric	
+
+statistics.historical.frags	numeric	
+
+statistics.historical.hits	numeric	
+
+statistics.historical.hits_percents	numeric	
+
+statistics.historical.losses	numeric	
+
+statistics.historical.max_damage	numeric	
+
+statistics.historical.max_damage_tank_id	numeric	
+
+statistics.historical.max_frags	numeric	
+
+statistics.historical.max_frags_tank_id	numeric	
+
+statistics.historical.max_xp	numeric	
+
+statistics.historical.max_xp_tank_id	numeric	
+
+statistics.historical.no_damage_direct_hits_received	numeric	
+
+statistics.historical.piercings	numeric	
+
+statistics.historical.piercings_received	numeric	
+
+statistics.historical.shots	numeric	
+
+statistics.historical.spotted	numeric	
+
+statistics.historical.stun_assisted_damage	numeric	
+
+statistics.historical.stun_number	numeric	
+
+statistics.historical.survived_battles	numeric	
+
+statistics.historical.tanking_factor	float	
+
+statistics.historical.wins	numeric	
+
+statistics.historical.xp	numeric	
+
+statistics.random		
+
+statistics.random.avg_damage_assisted	float	
+
+statistics.random.avg_damage_assisted_radio	float	
+
+statistics.random.avg_damage_assisted_track	float	
+
+statistics.random.avg_damage_blocked	float	
+
+statistics.random.battle_avg_xp	numeric	
+
+statistics.random.battles	numeric	
+
+statistics.random.battles_on_stunning_vehicles	numeric	
+
+statistics.random.capture_points	numeric	
+
+statistics.random.damage_dealt	numeric	
+
+statistics.random.damage_received	numeric	
+
+statistics.random.direct_hits_received	numeric	
+
+statistics.random.draws	numeric	
+
+statistics.random.dropped_capture_points	numeric	
+
+statistics.random.explosion_hits	numeric	
+
+statistics.random.explosion_hits_received	numeric	
+
+statistics.random.frags	numeric	
+
+statistics.random.hits	numeric	
+
+statistics.random.hits_percents	numeric	
+
+statistics.random.losses	numeric	
+
+statistics.random.no_damage_direct_hits_received	numeric	
+
+statistics.random.piercings	numeric	
+
+statistics.random.piercings_received	numeric	
+
+statistics.random.shots	numeric	
+
+statistics.random.spotted	numeric	
+
+statistics.random.stun_assisted_damage	numeric	
+
+statistics.random.stun_number	numeric	
+
+statistics.random.survived_battles	numeric	
+
+statistics.random.tanking_factor	float	
+
+statistics.random.wins	numeric	
+
+statistics.random.xp	numeric	
+
+statistics.ranked_battles		
+
+statistics.ranked_battles.avg_damage_assisted	float	
+
+statistics.ranked_battles.avg_damage_assisted_radio	float	
+
+statistics.ranked_battles.avg_damage_assisted_track	float	
+
+statistics.ranked_battles.avg_damage_blocked	float	
+
+statistics.ranked_battles.battle_avg_xp	numeric	
+
+statistics.ranked_battles.battles	numeric	
+
+statistics.ranked_battles.battles_on_stunning_vehicles	numeric	
+
+statistics.ranked_battles.capture_points	numeric	
+
+statistics.ranked_battles.damage_dealt	numeric	
+
+statistics.ranked_battles.damage_received	numeric	
+
+statistics.ranked_battles.direct_hits_received	numeric	
+
+statistics.ranked_battles.draws	numeric	
+
+statistics.ranked_battles.dropped_capture_points	numeric	
+
+statistics.ranked_battles.explosion_hits	numeric	
+
+statistics.ranked_battles.explosion_hits_received	numeric	
+
+statistics.ranked_battles.frags	numeric	
+
+statistics.ranked_battles.hits	numeric	
+
+statistics.ranked_battles.hits_percents	numeric	
+
+statistics.ranked_battles.losses	numeric	
+
+statistics.ranked_battles.max_damage	numeric	
+
+statistics.ranked_battles.max_damage_tank_id	numeric	
+
+statistics.ranked_battles.max_frags	numeric	
+
+statistics.ranked_battles.max_frags_tank_id	numeric	
+
+statistics.ranked_battles.max_xp	numeric	
+
+statistics.ranked_battles.max_xp_tank_id	numeric	
+
+statistics.ranked_battles.no_damage_direct_hits_received	numeric	
+
+statistics.ranked_battles.piercings	numeric	
+
+statistics.ranked_battles.piercings_received	numeric	
+
+statistics.ranked_battles.shots	numeric	
+
+statistics.ranked_battles.spotted	numeric	
+
+statistics.ranked_battles.stun_assisted_damage	numeric	
+
+statistics.ranked_battles.stun_number	numeric	
+
+statistics.ranked_battles.survived_battles	numeric	
+
+statistics.ranked_battles.tanking_factor	float	
+
+statistics.ranked_battles.wins	numeric	
+
+statistics.ranked_battles.xp	numeric	
+
+statistics.ranked_battles_current		
+
+statistics.ranked_battles_current.avg_damage_assisted	float	
+
+statistics.ranked_battles_current.avg_damage_assisted_radio	float	
+
+statistics.ranked_battles_current.avg_damage_assisted_track	float	
+
+statistics.ranked_battles_current.avg_damage_blocked	float	
+
+statistics.ranked_battles_current.battle_avg_xp	numeric	
+
+statistics.ranked_battles_current.battles	numeric	
+
+statistics.ranked_battles_current.battles_on_stunning_vehicles	numeric	
+
+statistics.ranked_battles_current.capture_points	numeric	
+
+statistics.ranked_battles_current.damage_dealt	numeric	
+
+statistics.ranked_battles_current.damage_received	numeric	
+
+statistics.ranked_battles_current.direct_hits_received	numeric	
+
+statistics.ranked_battles_current.draws	numeric	
+
+statistics.ranked_battles_current.dropped_capture_points	numeric	
+
+statistics.ranked_battles_current.explosion_hits	numeric	
+
+statistics.ranked_battles_current.explosion_hits_received	numeric	
+
+statistics.ranked_battles_current.frags	numeric	
+
+statistics.ranked_battles_current.hits	numeric	
+
+statistics.ranked_battles_current.hits_percents	numeric	
+
+statistics.ranked_battles_current.losses	numeric	
+
+statistics.ranked_battles_current.max_damage	numeric	
+
+statistics.ranked_battles_current.max_damage_tank_id	numeric	
+
+statistics.ranked_battles_current.max_frags	numeric	
+
+statistics.ranked_battles_current.max_frags_tank_id	numeric	
+
+statistics.ranked_battles_current.max_xp	numeric	
+
+statistics.ranked_battles_current.max_xp_tank_id	numeric	
+
+statistics.ranked_battles_current.no_damage_direct_hits_received	numeric	
+
+statistics.ranked_battles_current.piercings	numeric	
+
+statistics.ranked_battles_current.piercings_received	numeric	
+
+statistics.ranked_battles_current.shots	numeric	
+
+statistics.ranked_battles_current.spotted	numeric	
+
+statistics.ranked_battles_current.stun_assisted_damage	numeric	
+
+statistics.ranked_battles_current.stun_number	numeric	
+
+statistics.ranked_battles_current.survived_battles	numeric	
+
+statistics.ranked_battles_current.tanking_factor	float	
+
+statistics.ranked_battles_current.wins	numeric	
+
+statistics.ranked_battles_current.xp	numeric	
+
+statistics.ranked_battles_previous		
+
+statistics.ranked_battles_previous.avg_damage_assisted	float	
+
+statistics.ranked_battles_previous.avg_damage_assisted_radio	float	
+
+statistics.ranked_battles_previous.avg_damage_assisted_track	float	
+
+statistics.ranked_battles_previous.avg_damage_blocked	float	
+
+statistics.ranked_battles_previous.battle_avg_xp	numeric	
+
+statistics.ranked_battles_previous.battles	numeric	
+
+statistics.ranked_battles_previous.battles_on_stunning_vehicles	numeric	
+
+statistics.ranked_battles_previous.capture_points	numeric	
+
+statistics.ranked_battles_previous.damage_dealt	numeric	
+
+statistics.ranked_battles_previous.damage_received	numeric	
+
+statistics.ranked_battles_previous.direct_hits_received	numeric	
+
+statistics.ranked_battles_previous.draws	numeric	
+
+statistics.ranked_battles_previous.dropped_capture_points	numeric	
+
+statistics.ranked_battles_previous.explosion_hits	numeric	
+
+statistics.ranked_battles_previous.explosion_hits_received	numeric	
+
+statistics.ranked_battles_previous.frags	numeric	
+
+statistics.ranked_battles_previous.hits	numeric	
+
+statistics.ranked_battles_previous.hits_percents	numeric	
+
+statistics.ranked_battles_previous.losses	numeric	
+
+statistics.ranked_battles_previous.max_damage	numeric	
+
+statistics.ranked_battles_previous.max_damage_tank_id	numeric	
+
+statistics.ranked_battles_previous.max_frags	numeric	
+
+statistics.ranked_battles_previous.max_frags_tank_id	numeric	
+
+statistics.ranked_battles_previous.max_xp	numeric	
+
+statistics.ranked_battles_previous.max_xp_tank_id	numeric	
+
+statistics.ranked_battles_previous.no_damage_direct_hits_received	numeric	
+
+statistics.ranked_battles_previous.piercings	numeric	
+
+statistics.ranked_battles_previous.piercings_received	numeric	
+
+statistics.ranked_battles_previous.shots	numeric	
+
+statistics.ranked_battles_previous.spotted	numeric	
+
+statistics.ranked_battles_previous.stun_assisted_damage	numeric	
+
+statistics.ranked_battles_previous.stun_number	numeric	
+
+statistics.ranked_battles_previous.survived_battles	numeric	
+
+statistics.ranked_battles_previous.tanking_factor	float	
+
+statistics.ranked_battles_previous.wins	numeric	
+
+statistics.ranked_battles_previous.xp	numeric	
+
+statistics.regular_team		
+
+Warning. The field will be disabled.
+statistics.regular_team.avg_damage_assisted	float	
+
+statistics.regular_team.avg_damage_assisted_radio	float	
+
+statistics.regular_team.avg_damage_assisted_track	float	
+
+statistics.regular_team.avg_damage_blocked	float	
+
+statistics.regular_team.battle_avg_xp	numeric	
+
+statistics.regular_team.battles	numeric	
+
+statistics.regular_team.battles_on_stunning_vehicles	numeric	
+
+statistics.regular_team.capture_points	numeric	
+
+statistics.regular_team.damage_dealt	numeric	
+
+statistics.regular_team.damage_received	numeric	
+
+statistics.regular_team.direct_hits_received	numeric	
+
+statistics.regular_team.draws	numeric	
+
+statistics.regular_team.dropped_capture_points	numeric	
+
+statistics.regular_team.explosion_hits	numeric	
+
+statistics.regular_team.explosion_hits_received	numeric	
+
+statistics.regular_team.frags	numeric	
+
+statistics.regular_team.hits	numeric	
+
+statistics.regular_team.hits_percents	numeric	
+
+statistics.regular_team.losses	numeric	
+
+statistics.regular_team.max_damage	numeric	
+
+statistics.regular_team.max_damage_tank_id	numeric	
+
+statistics.regular_team.max_frags	numeric	
+
+statistics.regular_team.max_frags_tank_id	numeric	
+
+statistics.regular_team.max_xp	numeric	
+
+statistics.regular_team.max_xp_tank_id	numeric	
+
+statistics.regular_team.no_damage_direct_hits_received	numeric	
+
+statistics.regular_team.piercings	numeric	
+
+statistics.regular_team.piercings_received	numeric	
+
+statistics.regular_team.shots	numeric	
+
+statistics.regular_team.spotted	numeric	
+
+statistics.regular_team.stun_assisted_damage	numeric	
+
+statistics.regular_team.stun_number	numeric	
+
+statistics.regular_team.survived_battles	numeric	
+
+statistics.regular_team.tanking_factor	float	
+
+statistics.regular_team.wins	numeric	
+
+statistics.regular_team.xp	numeric	
+
+statistics.stronghold_defense		
+
+statistics.stronghold_defense.battle_avg_xp	numeric	
+
+statistics.stronghold_defense.battles	numeric	
+
+statistics.stronghold_defense.battles_on_stunning_vehicles	numeric	
+
+statistics.stronghold_defense.capture_points	numeric	
+
+statistics.stronghold_defense.damage_dealt	numeric	
+
+statistics.stronghold_defense.damage_received	numeric	
+
+statistics.stronghold_defense.direct_hits_received	numeric	
+
+statistics.stronghold_defense.draws	numeric	
+
+statistics.stronghold_defense.dropped_capture_points	numeric	
+
+statistics.stronghold_defense.explosion_hits	numeric	
+
+statistics.stronghold_defense.explosion_hits_received	numeric	
+
+statistics.stronghold_defense.frags	numeric	
+
+statistics.stronghold_defense.hits	numeric	
+
+statistics.stronghold_defense.hits_percents	numeric	
+
+statistics.stronghold_defense.losses	numeric	
+
+statistics.stronghold_defense.max_damage	numeric	
+
+statistics.stronghold_defense.max_damage_tank_id	numeric	
+
+statistics.stronghold_defense.max_frags	numeric	
+
+statistics.stronghold_defense.max_frags_tank_id	numeric	
+
+statistics.stronghold_defense.max_xp	numeric	
+
+statistics.stronghold_defense.max_xp_tank_id	numeric	
+
+statistics.stronghold_defense.no_damage_direct_hits_received	numeric	
+
+statistics.stronghold_defense.piercings	numeric	
+
+statistics.stronghold_defense.piercings_received	numeric	
+
+statistics.stronghold_defense.shots	numeric	
+
+statistics.stronghold_defense.spotted	numeric	
+
+statistics.stronghold_defense.stun_assisted_damage	numeric	
+
+statistics.stronghold_defense.stun_number	numeric	
+
+statistics.stronghold_defense.survived_battles	numeric	
+
+statistics.stronghold_defense.tanking_factor	float	
+
+statistics.stronghold_defense.wins	numeric	
+
+statistics.stronghold_defense.xp	numeric	
+
+statistics.stronghold_skirmish		
+
+statistics.stronghold_skirmish.battle_avg_xp	numeric	
+
+statistics.stronghold_skirmish.battles	numeric	
+
+statistics.stronghold_skirmish.battles_on_stunning_vehicles	numeric	
+
+statistics.stronghold_skirmish.capture_points	numeric	
+
+statistics.stronghold_skirmish.damage_dealt	numeric	
+
+statistics.stronghold_skirmish.damage_received	numeric	
+
+statistics.stronghold_skirmish.direct_hits_received	numeric	
+
+statistics.stronghold_skirmish.draws	numeric	
+
+statistics.stronghold_skirmish.dropped_capture_points	numeric	
+
+statistics.stronghold_skirmish.explosion_hits	numeric	
+
+statistics.stronghold_skirmish.explosion_hits_received	numeric	
+
+statistics.stronghold_skirmish.frags	numeric	
+
+statistics.stronghold_skirmish.hits	numeric	
+
+statistics.stronghold_skirmish.hits_percents	numeric	
+
+statistics.stronghold_skirmish.losses	numeric	
+
+statistics.stronghold_skirmish.max_damage	numeric	
+
+statistics.stronghold_skirmish.max_damage_tank_id	numeric	
+
+statistics.stronghold_skirmish.max_frags	numeric	
+
+statistics.stronghold_skirmish.max_frags_tank_id	numeric	
+
+statistics.stronghold_skirmish.max_xp	numeric	
+
+statistics.stronghold_skirmish.max_xp_tank_id	numeric	
+
+statistics.stronghold_skirmish.no_damage_direct_hits_received	numeric	
+
+statistics.stronghold_skirmish.piercings	numeric	
+
+statistics.stronghold_skirmish.piercings_received	numeric	
+
+statistics.stronghold_skirmish.shots	numeric	
+
+statistics.stronghold_skirmish.spotted	numeric	
+
+statistics.stronghold_skirmish.stun_assisted_damage	numeric	
+
+statistics.stronghold_skirmish.stun_number	numeric	
+
+statistics.stronghold_skirmish.survived_battles	numeric	
+
+statistics.stronghold_skirmish.tanking_factor	float	
+
+statistics.stronghold_skirmish.wins	numeric	
+
+statistics.stronghold_skirmish.xp	numeric	
+
+statistics.team		
+
+statistics.team.avg_damage_assisted	float	
+
+statistics.team.avg_damage_assisted_radio	float	
+
+statistics.team.avg_damage_assisted_track	float	
+
+statistics.team.avg_damage_blocked	float	
+
+statistics.team.battle_avg_xp	numeric	
+
+statistics.team.battles	numeric	
+
+statistics.team.battles_on_stunning_vehicles	numeric	
+
+statistics.team.capture_points	numeric	
+
+statistics.team.damage_dealt	numeric	
+
+statistics.team.damage_received	numeric	
+
+statistics.team.direct_hits_received	numeric	
+
+statistics.team.draws	numeric	
+
+statistics.team.dropped_capture_points	numeric	
+
+statistics.team.explosion_hits	numeric	
+
+statistics.team.explosion_hits_received	numeric	
+
+statistics.team.frags	numeric	
+
+statistics.team.hits	numeric	
+
+statistics.team.hits_percents	numeric	
+
+statistics.team.losses	numeric	
+
+statistics.team.max_damage	numeric	
+
+statistics.team.max_damage_tank_id	numeric	
+
+statistics.team.max_frags	numeric	
+
+statistics.team.max_frags_tank_id	numeric	
+
+statistics.team.max_xp	numeric	
+
+statistics.team.max_xp_tank_id	numeric	
+
+statistics.team.no_damage_direct_hits_received	numeric	
+
+statistics.team.piercings	numeric	
+
+statistics.team.piercings_received	numeric	
+
+statistics.team.shots	numeric	
+
+statistics.team.spotted	numeric	
+
+statistics.team.stun_assisted_damage	numeric	
+
+statistics.team.stun_number	numeric	
+
+statistics.team.survived_battles	numeric	
+
+statistics.team.tanking_factor	float	
+
+statistics.team.wins	numeric	
+
+statistics.team.xp
