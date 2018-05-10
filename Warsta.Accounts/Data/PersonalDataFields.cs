@@ -11,5 +11,11 @@ namespace Warsta.Accounts.Data
         public readonly string LogoutAt = "logout_at";
         public readonly string Nickname = "nickname";
         public readonly string UpdatedAt = "updated_at";
+        public AllTimeStatisticsFields AllTime = new AllTimeStatisticsFields ();
+        public ClanStatisticFields Clan = new ClanStatisticFields ();
+        public CompanyStatisticsFields Company = new CompanyStatisticsFields ();
+        public EpicStatisticFields Epic = new EpicStatisticFields ();
+        public PrivateFields Private = new PrivateFields ();
+        public StatisticsFields Statistics = new StatisticsFields ();
     }
 }
